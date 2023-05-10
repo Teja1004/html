@@ -1,0 +1,38 @@
+.main{
+    display: flex;
+   text-align: center;
+ flex-direction: column;
+}
+.head{
+    background-color:mediumpurple;
+   height: 50px;
+   display: flex;
+   justify-content: end;
+   align-items: center;
+}
+.content{
+    background-color: rgb(218, 190, 119);
+    height: 500px;
+    display: flex;
+}
+.mid{
+    background-color: mediumpurple;
+    
+
+}
+
+.footer{
+    background-color: darkslategrey;
+    height: 60px;
+    
+}
+.India{
+    display: flex;
+    justify-content: start;
+}
+.aa{
+    display: flex;
+    justify-content: space-evenly;
+    
+
+}

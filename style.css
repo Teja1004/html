@@ -1,0 +1,17 @@
+table,th,td{
+               
+    border-collapse: collapse;
+}
+table.center {
+   margin-left: auto; 
+    margin-right: auto;
+}
+table{
+    width: 400px;
+    height: 100px;
+}
+form{
+    width: 400px;
+    height: 100px;
+    
+}

@@ -1,0 +1,32 @@
+.ram{
+    background-color: beige;
+    display: grid;
+    height: 100vh;
+    grid-template-columns: 20% 80% ;
+    grid-template-rows: 20% 80%;
+    text-align: center;
+}
+.head{
+    background-color: blueviolet;
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+}
+.content{
+    background-color: aqua;
+    
+}
+   
+.sidebar{
+    background-color: brown;
+    grid-row-start: 2;
+    grid-row-end: 3;
+
+}
+.footer{
+    background-color: aquamarine;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}

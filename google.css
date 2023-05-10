@@ -1,0 +1,16 @@
+.container{
+    background-color: whitesmoke;
+}
+.Header{
+    background-color: whitesmoke;
+    border-image: 50px;
+}
+.Header add img{
+    width:"250px";
+     height:"200px";
+     border-radius: 100px;
+     
+}
+.footer{
+    background-color: whitesmoke;
+}

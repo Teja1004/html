@@ -1,0 +1,42 @@
+.container{
+    font-size: 23px;
+    background-color:black;
+    
+    height: 1000px;
+    text-align: center;
+   
+}
+.head{
+    background-color: red;
+height: 100px;}
+
+.sidebar{
+    background-color:palevioletred;
+    float: left;
+    width: 10%;
+    height: 850px;
+}
+.main{
+    background-color: blueviolet;
+    float: left;
+ width: 80%;
+    height: 850px;
+}
+.sidebar2{
+    background-color: blue;
+    float: left;
+    width: 10%;
+    height: 850px;
+}
+.footer{
+    background-color: brown;
+    float:left ;
+    height: 100px;
+    width:100%;
+}
+
+.Catageryes{
+    list-style: none;
+    text-align: center;
+    
+}
